@@ -22,20 +22,13 @@ if [ -d "$target_dir" ]; then
     fi
 else
     echo "$name_of_directory Directory Not Exists!"
-
-    # Create the directory
     mkdir -p "$target_dir"
-
-    if [ $? -eq 0 ]; then
-        echo "Directory created successfully" > "$log_file"
-    else
-        echo "Failed to create the directory" > "$log_file"
-    fi
+    echo "Created $name_of_directory Directory."
 fi
 
 # Variables
-# path="C:/Users/georg/OneDrive/Documents/Virtual Internship/Kalbe Nutritionals/Data Engineering"
-# name_of_directory="Week 04"
+# path="C:/Users/georg/OneDrive/Documents/Virtual Internship/Kalbe Nutritionals/Data Engineering/Week 04"
+# name_of_directory="FinalTask_Kalbe_DE_2"
 # filename_excel="FinalTask_Kalbe_DE_GeorgeKenjiPutra_2.xlsx"
 # source_dir="C:/Users/georg/OneDrive/Documents/Virtual Internship/Kalbe Nutritionals/Data Engineering/Source"
 # target_dir="$path/$name_of_directory"
