@@ -8,6 +8,8 @@ By: [George Kenji Putra](https://www.linkedin.com/in/georgekenjiputra/)
 
 Presentation Slide: [Final Task VIX with Kalbe Nutritionals](https://www.canva.com/design/DAFrgeCkybk/zICIK9gUGrqCqm1qzPnTBg/view?utm_content=DAFrgeCkybk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+Presentation Video: [!IMPORTANT]COMING SOON!
+
 ## About Kalbe Nutritionals
 
 Kalbe Nutritionals is a company engaged in the health food and beverage business with the mission of Providing the Best Nutrition Solution for a Better Life. Kalbe Nutritionals has various nutritional products at every stage of life, starting from pregnancy preparation and pregnancy, nutrition for babies, children, adults, to the elderly.
