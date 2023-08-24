@@ -9,7 +9,7 @@ By: [George Kenji Putra](https://www.linkedin.com/in/georgekenjiputra/)
 Presentation Slide: [Final Task VIX with Kalbe Nutritionals](https://www.canva.com/design/DAFrgeCkybk/zICIK9gUGrqCqm1qzPnTBg/view?utm_content=DAFrgeCkybk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 > [!IMPORTANT]
-Presentation Video: COMING SOON!
+> Presentation Video: COMING SOON!
 
 ## About Kalbe Nutritionals
 
