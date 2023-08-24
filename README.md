@@ -22,8 +22,8 @@ The culmination of this program will involve tackling a final project, which wil
 
 ## Skills Needed
 
-Cloud Computing, Data Analysis and Modeling, Data Collection and Processing, Data Warehouse Foundation, Data Warehouse Scheme, ETL and ELT, Data Pre-Processing, Developing ETL Process.
+`Cloud Computing` `Data Analysis and Modeling` `Data Collection and Processing` `Data Warehouse Foundation` `Data Warehouse Scheme` `ETL and ELT` `Data Pre-Processing` `Developing ETL Process`
 
 ## Tools Needed
 
-PostgreSQL, Python, MySQL, DBeaver, DataGrip, 'VSCode'.
+`PostgreSQL` `Python` `MySQL` `DBeaver` `DataGrip` `VSCode`
