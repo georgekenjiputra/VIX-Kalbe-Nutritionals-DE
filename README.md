@@ -26,4 +26,4 @@ Cloud Computing, Data Analysis and Modeling, Data Collection and Processing, Dat
 
 ## Tools Needed
 
-PostgreSQL, Python, MySQL, DBeaver, DataGrip, VSCode
+PostgreSQL, Python, MySQL, DBeaver, DataGrip, 'VSCode'.
